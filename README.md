@@ -21,6 +21,9 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" alt="SQL logo" />
   <img width="12" />
+
+  <img src="https://devicon-website.vercel.app/api/javascript/original.svg"></img>
+  <img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="40" alt="Java logo" />
   <img width="12" />
