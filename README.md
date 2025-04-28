@@ -48,9 +48,9 @@
 ###
 
 <ul>
-  <li>🔹 **Cargow** - Una plataforma de carpooling para eventos como conciertos, partidos de fútbol, y festivales. Construida con **React** y **Firebase**.</li>
-  <li>🔹 **Dragon Ball API** - Una aplicación que consume la **Dragon Ball API** para mostrar información de personajes y episodios del mundo de Dragon Ball.</li>
-  <li>🔹 **Sistema de Gestión de Notas** - Un sistema simple para gestionar las notas de estudiantes usando **Laravel**.</li>
+  <li>🔹 Cargow - Una plataforma de carpooling para eventos como conciertos, partidos de fútbol, y festivales. Construida con **React** y **Firebase**.</li>
+  <li>🔹 Dragon Ball API - Una aplicación que consume la **Dragon Ball API** para mostrar información de personajes y episodios del mundo de Dragon Ball.</li>
+  <li>🔹 Sistema de Gestión de Notas - Un sistema simple para gestionar las notas de estudiantes usando **Laravel**.</li>
 </ul>
 
 ###
@@ -58,6 +58,6 @@
 <h2 align="left">Contáctame</h2>
 
 <p align="left">
-  📧 Correo electrónico: <a href="mailto:tu_correo@dominio.com">tu_correo@dominio.com</a><br>
-  🔗 [LinkedIn](https://www.linkedin.com/in/tu_usuario/)
+  📧 Correo electrónico: <a href="mailto:tu_correo@dominio.com">antoniomirperez2004@gmail.com</a><br>
+  🔗 [LinkedIn]([https://www.linkedin.com/in/tu_usuario/](https://www.linkedin.com/in/antonio-mir-p%C3%A9rez-1aa624309/))
 </p>
