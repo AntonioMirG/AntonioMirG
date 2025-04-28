@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Empecé a estudiar desarrollo web en 2023.<br>⌚ Actualmente estoy enfocándome principalmente en **Java**.<br>🎯 **Metas**: Realizar proyectos más complejos y adquirir experiencia en diversas tecnologías.</p>
+<p align="left">📚 Empecé a estudiar desarrollo web en 2023.<br>⌚ Actualmente estoy enfocándome principalmente en JavaScript.<br>🎯 Metas: Realizar proyectos más complejos y adquirir experiencia en diversas tecnologías.</p>
 
 ###
 
@@ -22,8 +22,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" alt="SQL logo" />
   <img width="12" />
 
-  <img src="https://devicon-website.vercel.app/api/javascript/original.svg"></img>
+  <img src="https://devicon-website.vercel.app/api/javascript/original.svg" height="40" alt="JavaScript Logo"></img>
   <img width="12" />
+
+  <img src="https://devicon-website.vercel.app/api/react/original.svg" height="40" alt="React Logo"></img>
+  <img width="12" />
+
+  <img src="https://devicon-website.vercel.app/api/firebase/plain.svg" height="40" alt="FireBase Logo"></img>
+  <img width="12" />
+
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="40" alt="Java logo" />
   <img width="12" />
