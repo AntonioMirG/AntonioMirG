@@ -67,6 +67,6 @@
 <h2 align="left">Contáctame</h2>
 
 <p align="left">
-  📧 Correo electrónico: <a href="mailto:antoniomirperez2004@gmail.com">antoniomirperez2004@gmail.com</a><br>
-  🔗 [LinkedIn](https://www.linkedin.com/in/antonio-mir-p%C3%A9rez-1aa624309/)
+  📧 Correo electrónico: <a href="mailto:antoniomirdev@gmail.com">antoniomirdev@gmail.com</a><br>
+  🔗 LinkedIn(https://www.linkedin.com/in/antonio-mir-p%C3%A9rez-1aa624309/)
 </p>
