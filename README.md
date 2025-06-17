@@ -58,8 +58,8 @@
 
 <ul>
   <li>🔹 Cargow - Una plataforma de carpooling para eventos como conciertos, partidos de fútbol y festivales. Construida con **React** y **Firebase**.</li>
-  <li>🔹 Dragon Ball API - Una aplicación que consume la **Dragon Ball API** para mostrar información de personajes y episodios del mundo de Dragon Ball.</li>
-  <li>🔹 Sistema de Gestión de Notas - Un sistema simple para gestionar las notas de estudiantes usando **Laravel**.</li>
+  <li>🔹 Zita - Una plataforma de gestión de reservas altamente personalizable enfocada en el ámbito empresarial **React** y **Firebase**.</li>
+
 </ul>
 
 <hr>
