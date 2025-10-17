@@ -2,7 +2,7 @@
 
 <hr>
 
-<p align="left">Mi nombre es Antonio, soy de Zaragoza y soy un estudiante de desarrollo web. <br>En este espacio iré subiendo los proyectos que vaya realizando mientras aprendo sobre el mundo de la programación.</p>
+<p align="left">Mi nombre es Antonio, soy de Zaragoza y soy un estudiante de desarrollo de aplicaciones multiplataforma <br>En este espacio iré subiendo los proyectos que vaya realizando mientras aprendo sobre el mundo de la programación.</p>
 
 <hr>
 
